@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="login.gbar.dtu.dk" id="8a45d64c-aa33-4424-996e-db5e66240a7a" keyPath="$PROJECT_DIR$/../.ssh/id_ed25519" port="22" nameFormat="DESCRIPTIVE" username="dft22x033" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

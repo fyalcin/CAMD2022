@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="80b5670a-76b3-474f-885c-8d090ab4795a" name="dtu">
+        <fileTransfer accessType="SFTP" host="login.gbar.dtu.dk" port="22" sshConfigId="8a45d64c-aa33-4424-996e-db5e66240a7a" sshConfig="dft22x033@login.gbar.dtu.dk:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

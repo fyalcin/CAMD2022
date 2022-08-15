@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="dtu" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="dtu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zhome/27/7/1000203284/CAMD2022" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
